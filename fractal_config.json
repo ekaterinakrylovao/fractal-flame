@@ -1,0 +1,33 @@
+[
+    {
+        "transformation": "PDJTransformation",
+        "params": {
+            "a": 1.0,
+            "b": 1.0,
+            "c": 1.0,
+            "d": 1.0
+        },
+        "iterations": 8,
+        "world": {
+            "x": -1,
+            "y": -1,
+            "width": 2,
+            "height": 2
+        },
+        "samples": 100000,
+        "symmetry": 1
+    },
+    {
+        "transformation": "SphericalTransformation",
+        "params": {},
+        "iterations": 8,
+        "world": {
+            "x": -1,
+            "y": -1,
+            "width": 2,
+            "height": 2
+        },
+        "samples": 100000,
+        "symmetry": 1
+    }
+]
